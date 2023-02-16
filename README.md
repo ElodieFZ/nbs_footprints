@@ -1,6 +1,8 @@
 # nbs_footprints
 Footprints for NBS project
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ElodieFZ/nbs_footprints/HEAD?labpath=S2_tiles_plot.ipynb)
+
 ## Footprints for colhub archive
 
  * colhub_aoi.geojson
